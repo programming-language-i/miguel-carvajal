@@ -1,5 +1,5 @@
-import socket
 import os
+import socket
 
 nombre_cliente = os.path.basename(__file__)
 
